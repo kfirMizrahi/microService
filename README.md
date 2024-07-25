@@ -181,6 +181,4 @@ To ensure the Flask services are running without manually starting them each tim
 - Make sure to update the API endpoints in the frontend components if the backend services are running on different URLs.
 - Customize the styles and animations as per your requirements.
 
----
 
-Feel free to modify this README file as per your project's needs.
